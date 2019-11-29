@@ -1,1 +1,1 @@
-# my-toy-shop.github.io
+# https://maxximl.github.io/my-toy-shop.github.io/
